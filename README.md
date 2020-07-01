@@ -1,5 +1,3 @@
-# IntroClassificacao
-Projeto final desenvolvido na Alura para Introdução a classificação.
-
-Projeto de classificação desenvolvido na Alura. Objetivo de classificar se um carro será vendido ou não, baseando-se no
-seu preço e algumas outras características do veículo.
+# Intro Classification
+Final project developed on Alura's course Introduction to classification.
+Basic project of classification developed to improve basic skills.
